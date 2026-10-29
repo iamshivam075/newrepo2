@@ -7,7 +7,3 @@ cout<<"helooo"<<endl;
 return 0;
 }
 
-cheeta sheerrr;
-
-sheer palll
-75 rooti
